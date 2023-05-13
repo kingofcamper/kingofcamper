@@ -37,12 +37,12 @@ Front-end Developer
 ### Projects
 
 - [E-commerce Platform](http://zoompara.tn): A full-stack e-commerce platform built with PHP, JQUERY, and MYSQL.
-- [Content Management App](https://26janivier.tn): A content management application developed with React and Symfony, featuring user authentication and content management functionalities.
+- [Content Management App](https://26janvier.tn): A content management application developed with React and Symfony, featuring user authentication and content management functionalities.
 
 ### Education
 
-Bachelor Technical Science, 2017
-ISI Institut of computer science, 2020
+Bachelor Technical Science, 2017.
+ISI Institut of computer science, 2020.
 
 ### Let's Connect
 
