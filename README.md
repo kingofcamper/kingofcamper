@@ -41,8 +41,8 @@ Front-end Developer
 
 ### Education
 
-Bachelor Technical Science, 2017.
-ISI Institut of computer science, 2020.
+- Bachelor Technical Science, 2017.
+- ISI Institut of computer science, 2020.
 
 ### Let's Connect
 
